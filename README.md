@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Vishrut Rana 👨‍💻  <br>A passionate software developer who enjoys building scalable, secure, and user-friendly applications.<br><br>💡 I specialize in:<br>- Java & backend development<br>- Full-stack web applications<br>- Authentication & role-based systems<br>- Database design and integration<br><br>🚀 I love turning ideas into real-world projects and continuously improving my skills by learning new technologies.<br><br>📫 Feel free to connect or collaborate!
+## Hi, I'm Vishrut Rana 👨‍💻  <br>A passionate software developer who enjoys building scalable, secure, and user-friendly applications.<br><br>💡 I specialize in:<br>- Java & backend development<br>- Full-stack web applications<br>- Authentication & role-based systems<br>- Database design and integration<br><br>🚀 I love turning ideas into real-world projects and continuously improving my skills by learning new technologies.<br><br>📫 Feel free to connect or collaborate!
 
 
 ## 🌐 Socials:
